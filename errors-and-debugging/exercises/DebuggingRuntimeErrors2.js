@@ -1,3 +1,5 @@
+//console.log was spelled incorreclty on line 19. i have fixed this.
+
 let launchReady = false;
 let fuelLevel = 27000;
 
@@ -14,7 +16,7 @@ if (launchReady) {
    console.log("Fed parrot...");
    console.log("6, 5, 4...");
    console.log("Ignition...");
-   consoul.log("3, 2, 1...");
+   console.log("3, 2, 1...");
    console.log("Liftoff!");
 } else {
    console.log("Launch scrubbed.");
